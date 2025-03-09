@@ -22,7 +22,7 @@ loom {
 	splitEnvironmentSourceSets()
 
 	mods {
-		"pronouns-on-join" {
+		"pronouns-on-demand" {
 			sourceSet sourceSets.main
 			sourceSet sourceSets.client
 		}
